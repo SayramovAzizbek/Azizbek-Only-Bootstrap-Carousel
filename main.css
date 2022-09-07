@@ -1,4 +1,5 @@
 #carouselExampleCaptions {
+    padding-top: 56px;
     margin-bottom: 4rem;
 }
 
@@ -8,6 +9,10 @@
 
 .blog-line {
     margin: 5rem 0;
+}
+
+#site-footer {
+    padding-bottom: 3rem;
 }
 
 @media only screen and (max-width:992px) {
