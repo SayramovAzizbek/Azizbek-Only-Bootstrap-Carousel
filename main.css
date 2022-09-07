@@ -1,0 +1,32 @@
+#carouselExampleCaptions {
+    margin-bottom: 4rem;
+}
+
+.blog-list-title {
+    margin-top: 7rem;
+}
+
+.blog-line {
+    margin: 5rem 0;
+}
+
+@media only screen and (max-width:992px) {
+    .under-hero-item {
+        margin: 1.5rem 0;
+    }
+
+    .blog-list-title {
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width:576px) {
+    .blog-img {
+        width: 100%;
+    }
+
+    .footer-part {
+        flex-direction: column;
+        align-items: center;
+    }
+}
